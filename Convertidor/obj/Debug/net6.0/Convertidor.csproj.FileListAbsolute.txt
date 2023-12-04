@@ -1,0 +1,14 @@
+G:\proyectos c#\Convertidor\Convertidor\obj\Debug\net6.0\Convertidor.GeneratedMSBuildEditorConfig.editorconfig
+G:\proyectos c#\Convertidor\Convertidor\obj\Debug\net6.0\Convertidor.AssemblyInfoInputs.cache
+G:\proyectos c#\Convertidor\Convertidor\obj\Debug\net6.0\Convertidor.AssemblyInfo.cs
+G:\proyectos c#\Convertidor\Convertidor\obj\Debug\net6.0\Convertidor.csproj.CoreCompileInputs.cache
+G:\proyectos c#\Convertidor\Convertidor\bin\Debug\net6.0\Convertidor.exe
+G:\proyectos c#\Convertidor\Convertidor\bin\Debug\net6.0\Convertidor.deps.json
+G:\proyectos c#\Convertidor\Convertidor\bin\Debug\net6.0\Convertidor.runtimeconfig.json
+G:\proyectos c#\Convertidor\Convertidor\bin\Debug\net6.0\Convertidor.dll
+G:\proyectos c#\Convertidor\Convertidor\bin\Debug\net6.0\Convertidor.pdb
+G:\proyectos c#\Convertidor\Convertidor\obj\Debug\net6.0\Convertidor.dll
+G:\proyectos c#\Convertidor\Convertidor\obj\Debug\net6.0\refint\Convertidor.dll
+G:\proyectos c#\Convertidor\Convertidor\obj\Debug\net6.0\Convertidor.pdb
+G:\proyectos c#\Convertidor\Convertidor\obj\Debug\net6.0\Convertidor.genruntimeconfig.cache
+G:\proyectos c#\Convertidor\Convertidor\obj\Debug\net6.0\ref\Convertidor.dll
